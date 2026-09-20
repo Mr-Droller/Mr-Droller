@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @Mr-Droller
-- 👀 I’m interested in coding and maths
-- 🌱 I’m currently learning the basics from ground zero
-- 💞️ I’m looking to collaborate on anyway possible.
-- 📫 How to reach me: drollercanvas@gmail.com, discord: Droller.
+I'm Droller - A CSIT Student
+
+I'm currently interested in:
+- Programming (Python, C, Frontend)
+- Networking
+- Cybersecurity
+
+Gmail: drollercanvas@gmail.com
+Discord: droller.
+
 
 <!---
 Mr-Droller/Mr-Droller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
